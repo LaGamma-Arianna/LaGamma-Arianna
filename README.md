@@ -1,7 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Arianna!</h1>
+
+<h2>:computer:Data Science Projects:</h2>
+
+- <b>Data Visualization </b>
+  - [Creating Charts and Dashboards with ApexCharts]()
+- <b>Full Stack Web App (In Progress - Coming Soon!)</b>
+- <b>Deep Learning</b>
+  - [In Progress - Coming Soon!]
+- <b>Python</b>
+  - [Django Web App] (In Progress - Coming Soon!)
+
+<h2>📺 Explanation Videos of Projects</h2>
+
+- [tba]
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/arianna-lagamma/
 
 <!--
-**LaGamma-Arianna/LaGamma-Arianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
